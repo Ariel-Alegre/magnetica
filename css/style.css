@@ -403,7 +403,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-bg-section {
-  background: #e8e8e8;
+  background: white;
 }
 
 #fh5co-course-categories,
@@ -679,6 +679,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-heading {
   margin-bottom: 5em;
+  margin-top: 30px;
 }
 .fh5co-heading h2 {
   font-size: 24px;
