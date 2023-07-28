@@ -104,7 +104,15 @@
 		});
 	};
 
-
+// En tu archivo JavaScript (por ejemplo, al cargar la página)
+$(document).ready(function() {
+	$('.flexslider').flexslider({
+	  animation: "slide", // Opción: "slide" para deslizamiento horizontal
+	  direction: "reverse", // Opción: "reverse" para cambiar el sentido
+	  // Otras opciones y configuraciones que puedas necesitar
+	});
+  });
+  
 
 	var contentWayPoint = function() {
 		var i = 0;
