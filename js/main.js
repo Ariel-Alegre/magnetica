@@ -112,6 +112,7 @@ $(document).ready(function() {
 	  // Otras opciones y configuraciones que puedas necesitar
 	});
   });
+
   
 
 	var contentWayPoint = function() {
